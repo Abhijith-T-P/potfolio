@@ -255,7 +255,7 @@ const Portfolio = () => {
               <div className="image-container">
                 <img
                   src="https://media.licdn.com/dms/image/v2/D5603AQEQIMv_Q4M-uQ/profile-displayphoto-crop_800_800/B56ZiuXQK7HUAQ-/0/1755271988689?e=1758153600&v=beta&t=177XrNCWIjozT8burXeEf3WhETV0JmqNgAOcoDys-yU"
-                  alt="Profile"
+                  alt="Profile_img"
                 />
               </div>
             </div>
