@@ -138,9 +138,9 @@ const projects = [
       <nav className={`navbar ${isScrolled ? 'scrolled' : ''}`}>
         <div className="nav-container">
           <div className="nav-content">
-            <div className="logo">
+            {/* <div className="logo">
               Portfolio
-            </div>
+            </div> */}
             
             {/* Desktop Navigation */}
             <div className="nav-desktop">
