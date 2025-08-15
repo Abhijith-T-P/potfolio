@@ -310,9 +310,9 @@ const projects = [
                       </span>
                     ))}
                   </div>
-                  <button className="project-link">
+                  {/* <button className="project-link">
                     View Project <ExternalLink size={14} />
-                  </button>
+                  </button> */}
                 </div>
               </div>
             ))}
