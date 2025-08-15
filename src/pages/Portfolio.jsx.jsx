@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect, useRef } from 'react';
-import { ChevronDown, Mail, Github, Linkedin, ExternalLink, Menu, X } from 'lucide-react';
+import { ChevronDown, Mail, Github, Linkedin, Menu, X } from 'lucide-react';
 import profileImg from '../assets/profile.jpg';
 import './Portfolio.css';
 
